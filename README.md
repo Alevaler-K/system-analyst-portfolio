@@ -19,7 +19,7 @@
 2. **[Интерактивная OpenAPI-документация (Redoc)](https://alevaler-k.github.io/system-analyst-portfolio/)** — пример спецификации REST API, оформленной по стандарту Docs-as-Code.
 3. **[Схема бизнес-процесса BPMN](https://github.com/Alevaler-K/system-analyst-portfolio/blob/main/diagrams/order-bpmn.svg)** — визуализация логики работы бизнес-процесса.
 4. **[Sequence-диаграмма](https://github.com/Alevaler-K/system-analyst-portfolio/blob/main/diagrams/order-flow.png)** — визуализация интеграционного взаимодействия и логики создания заказа (PlantUML).
-5. **[Руководство для разработчиков / саппорта](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/guides/quickstart.md)** — гайд по быстрому старту работы с API.
+5. **[Руководство для разработчиков / саппорта](https://github.com/Alevaler-K/system-analyst-portfolio/blob/main/guides/quickstart.md)** — гайд по быстрому старту работы с API.
 6. **[Релизные заметки](https://github.com/Alevaler-K/it-support-and-implementation-portfolio/blob/main/release-notes/v1.2.0.md)** — пример Release Notes для спринта.
 
 ---
